@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://openshellorg.github.io/sitemap.xml
 Sitemap: https://openshellorg.github.io/prohelp/sitemap.xml
